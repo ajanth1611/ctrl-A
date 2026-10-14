@@ -1,0 +1,51 @@
+student_id,name,email,department,semester,placement_status
+STU2021001,Karan Saxena,karan.saxena@student.campus.edu,Mechanical Engineering,5,Eligible
+STU2021002,Pranav Deshmukh,pranav.deshmukh@student.campus.edu,Electronics & Communication,5,Needs Training
+STU2021003,Sneha Mishra,sneha.mishra@student.campus.edu,Electronics & Communication,5,Needs Training
+STU2021004,Karan Pillai,karan.pillai@student.campus.edu,Electronics & Communication,5,Needs Training
+STU2021005,Gaurav Chopra,gaurav.chopra@student.campus.edu,Information Technology,7,Needs Training
+STU2021006,Arjun Das,arjun.das@student.campus.edu,Mechanical Engineering,7,Placed
+STU2021007,Simran Gupta,simran.gupta@student.campus.edu,Computer Science & Engineering,7,Placed
+STU2021008,Kavya Patel,kavya.patel@student.campus.edu,Artificial Intelligence & Data Science,5,Eligible
+STU2021009,Riya Mishra,riya.mishra@student.campus.edu,Computer Science & Engineering,7,Needs Training
+STU2021010,Aditi Das,aditi.das@student.campus.edu,Mechanical Engineering,5,Needs Training
+STU2021011,Anushka Iyer,anushka.iyer@student.campus.edu,Artificial Intelligence & Data Science,5,Eligible
+STU2021012,Aditi Mishra,aditi.mishra@student.campus.edu,Mechanical Engineering,1,On Track
+STU2021013,Dev Joshi,dev.joshi@student.campus.edu,Electronics & Communication,7,Eligible
+STU2021014,Riya Joshi,riya.joshi@student.campus.edu,Artificial Intelligence & Data Science,7,Needs Training
+STU2021015,Harsh Chatterjee,harsh.chatterjee@student.campus.edu,Electronics & Communication,5,Eligible
+STU2021016,Aditya Mehta,aditya.mehta@student.campus.edu,Computer Science & Engineering,7,Needs Training
+STU2021017,Shreya Menon,shreya.menon@student.campus.edu,Computer Science & Engineering,5,Ineligible (Backlogs)
+STU2021018,Manish Deshmukh,manish.deshmukh@student.campus.edu,Artificial Intelligence & Data Science,3,At Risk
+STU2021019,Rohan Nair,rohan.nair@student.campus.edu,Artificial Intelligence & Data Science,3,On Track
+STU2021020,Vikram Mishra,vikram.mishra@student.campus.edu,Mechanical Engineering,3,On Track
+STU2021021,Karthik Rao,karthik.rao@student.campus.edu,Mechanical Engineering,3,Needs Academic Support
+STU2021022,Ishita Reddy,ishita.reddy@student.campus.edu,Electronics & Communication,1,On Track
+STU2021023,Harsh Kulkarni,harsh.kulkarni@student.campus.edu,Artificial Intelligence & Data Science,5,Eligible
+STU2021024,Karthik Mishra,karthik.mishra@student.campus.edu,Computer Science & Engineering,3,At Risk
+STU2021025,Aditi Saxena,aditi.saxena@student.campus.edu,Mechanical Engineering,5,Eligible
+STU2021026,Shreya Deshmukh,shreya.deshmukh@student.campus.edu,Mechanical Engineering,3,On Track
+STU2021027,Vikram Joshi,vikram.joshi@student.campus.edu,Computer Science & Engineering,5,Eligible
+STU2021028,Sneha Deshmukh,sneha.deshmukh@student.campus.edu,Mechanical Engineering,3,On Track
+STU2021029,Sameer Kulkarni,sameer.kulkarni@student.campus.edu,Electronics & Communication,3,On Track
+STU2021030,Akash Reddy,akash.reddy@student.campus.edu,Artificial Intelligence & Data Science,5,Ineligible (Backlogs)
+STU2021031,Aishwarya Reddy,aishwarya.reddy@student.campus.edu,Computer Science & Engineering,5,Needs Training
+STU2021032,Aditi Iyer,aditi.iyer@student.campus.edu,Artificial Intelligence & Data Science,3,Needs Academic Support
+STU2021033,Ananya Pandey,ananya.pandey@student.campus.edu,Mechanical Engineering,7,Eligible
+STU2021034,Pranav Bhat,pranav.bhat@student.campus.edu,Mechanical Engineering,1,At Risk
+STU2021035,Deepika Joshi,deepika.joshi@student.campus.edu,Computer Science & Engineering,3,Needs Academic Support
+STU2021036,Roshni Mehta,roshni.mehta@student.campus.edu,Electronics & Communication,7,Ineligible (Backlogs)
+STU2021037,Simran Kulkarni,simran.kulkarni@student.campus.edu,Information Technology,5,Needs Training
+STU2021038,Sanjay Menon,sanjay.menon@student.campus.edu,Computer Science & Engineering,3,On Track
+STU2021039,Manish Gupta,manish.gupta@student.campus.edu,Information Technology,5,Eligible
+STU2021040,Neha Kapoor,neha.kapoor@student.campus.edu,Information Technology,5,Needs Training
+STU2021041,Aishwarya Mishra,aishwarya.mishra@student.campus.edu,Electronics & Communication,5,Needs Training
+STU2021042,Meera Bose,meera.bose@student.campus.edu,Information Technology,1,On Track
+STU2021043,Ishita Deshmukh,ishita.deshmukh@student.campus.edu,Information Technology,3,On Track
+STU2021044,Kavya Bose,kavya.bose@student.campus.edu,Electronics & Communication,5,Ineligible (Backlogs)
+STU2021045,Pranav Deshmukh,pranav.deshmukh@student.campus.edu,Information Technology,7,Placed
+STU2021046,Aarav Rao,aarav.rao@student.campus.edu,Information Technology,5,Needs Training
+STU2021047,Karthik Das,karthik.das@student.campus.edu,Information Technology,3,On Track
+STU2021048,Aarav Joshi,aarav.joshi@student.campus.edu,Computer Science & Engineering,5,Needs Training
+STU2021049,Sneha Das,sneha.das@student.campus.edu,Computer Science & Engineering,5,Needs Training
+STU2021050,Arjun Pillai,arjun.pillai@student.campus.edu,Computer Science & Engineering,3,On Track

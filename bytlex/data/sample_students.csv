@@ -1,0 +1,221 @@
+student_id,name,department,semester,cgpa,marks_percentage,backlog_count,attendance_overall,lms_assignment_completion,lms_login_frequency,extracurricular_score,technical_skills_score,aptitude_score,coding_score,mock_interview_score,student_feedback_score
+CIQ2022001,Karan Saxena,Information Technology,6,4.19,46.0,1,63.1,40.2,5,33.2,51.0,51.6,44.3,47.3,2.7
+CIQ2022002,Pranav Deshmukh,Information Technology,5,4.99,44.6,1,58.1,49.9,2,34.2,52.7,44.5,41.6,46.1,3.4
+CIQ2022003,Chetan Gupta,Electronics & Communication,6,9.3,95.3,0,98.5,99.4,17,84.3,87.2,81.6,92.1,94.3,4.9
+CIQ2022004,Nikhil Rao,Information Technology,8,4.22,55.8,2,62.1,59.3,4,28.4,51.5,41.2,25.8,46.6,2.6
+CIQ2022005,Varun Kapoor,Information Technology,6,9.56,89.1,0,97.2,92.2,27,92.9,83.8,90.2,97.8,90.6,4.5
+CIQ2022006,Arjun Chopra,Electronics & Communication,7,9.13,91.2,0,95.6,97.0,20,80.0,92.3,87.6,84.1,96.6,4.8
+CIQ2022007,Kavya Mishra,Information Technology,7,9.42,95.5,0,92.9,98.2,21,76.5,88.5,89.0,93.5,85.5,4.5
+CIQ2022008,Simran Gupta,Information Technology,7,8.8,87.7,0,95.5,92.5,23,86.4,91.2,95.1,88.5,94.8,4.7
+CIQ2022009,Kavya Patel,Information Technology,4,8.93,97.4,0,88.4,90.9,25,76.6,95.4,87.9,96.6,94.1,4.8
+CIQ2022010,Riya Mishra,Computer Science & Engineering,3,5.71,47.1,4,50.7,46.5,2,33.5,38.2,49.3,44.5,49.1,2.4
+CIQ2022011,Aditi Das,Computer Science & Engineering,4,6.02,57.7,0,66.9,67.4,13,87.0,86.9,73.5,83.2,75.0,4.5
+CIQ2022012,Dia Chauhan,Computer Science & Engineering,7,6.61,67.2,0,83.7,85.4,14,65.2,67.8,59.5,71.3,70.1,3.9
+CIQ2022013,Priti Verma,Electronics & Communication,2,9.54,94.1,0,94.3,99.8,26,89.9,93.1,80.9,92.7,84.6,4.8
+CIQ2022014,Nikhil Sharma,Mechanical Engineering,5,6.4,58.7,0,66.4,62.2,13,78.9,81.7,80.4,94.7,86.2,3.6
+CIQ2022015,Divya Agarwal,Information Technology,3,4.82,49.4,2,61.0,42.9,3,32.0,52.7,44.0,35.1,38.1,2.9
+CIQ2022016,Riya Tripathi,Information Technology,5,6.2,58.5,0,72.3,69.4,11,92.5,86.3,81.2,97.8,75.0,3.8
+CIQ2022017,Dia Mukherjee,Electronics & Communication,7,7.06,77.2,0,74.1,70.8,7,50.8,67.2,67.9,59.6,64.4,3.5
+CIQ2022018,Isha Bansal,Information Technology,7,8.47,87.8,0,92.3,85.0,16,42.4,65.6,60.2,41.8,39.7,4.3
+CIQ2022019,Bhavya Malhotra,Computer Science & Engineering,3,5.45,53.3,0,63.7,77.2,14,80.2,88.8,91.6,96.1,84.0,4.4
+CIQ2022020,Meera Deshmukh,Mechanical Engineering,8,5.78,53.4,1,56.0,57.1,2,40.8,37.4,35.8,33.8,30.7,3.3
+CIQ2022021,Geeta Chauhan,Artificial Intelligence & Data Science,5,5.49,54.4,2,52.3,47.5,3,33.1,40.2,43.8,36.3,49.9,3.3
+CIQ2022022,Komal Joshi,Information Technology,4,7.16,73.5,0,74.4,84.3,14,60.1,65.9,62.6,63.1,58.7,4.1
+CIQ2022023,Omkar Saxena,Computer Science & Engineering,6,8.05,84.9,0,95.0,94.6,14,41.3,52.1,59.8,31.0,44.1,4.4
+CIQ2022024,Rohan Nair,Artificial Intelligence & Data Science,4,6.73,76.7,1,74.7,84.1,11,69.9,68.6,69.3,64.2,71.8,4.0
+CIQ2022025,Komal Rao,Mechanical Engineering,4,8.73,93.0,0,85.4,87.0,13,43.4,55.8,63.8,32.1,46.9,3.7
+CIQ2022026,Nikhil Singh,Artificial Intelligence & Data Science,6,7.66,77.5,0,84.5,70.1,14,55.0,73.6,58.0,64.5,70.1,3.6
+CIQ2022027,Karan Bhat,Computer Science & Engineering,3,8.27,81.3,0,86.6,92.3,13,44.4,52.1,61.9,32.6,39.8,3.5
+CIQ2022028,Ananya Mukherjee,Artificial Intelligence & Data Science,3,8.61,92.6,0,87.5,87.3,19,54.7,54.8,61.1,48.9,37.8,4.2
+CIQ2022029,Neha Bhat,Electronics & Communication,4,9.46,90.6,0,86.8,90.7,26,97.8,92.8,88.0,92.4,92.3,4.6
+CIQ2022030,Karthik Agarwal,Artificial Intelligence & Data Science,3,6.68,75.9,0,83.8,74.0,7,53.5,67.0,74.1,56.7,71.7,3.8
+CIQ2022031,Manoj Verma,Information Technology,4,7.59,69.6,0,83.3,73.7,8,69.1,74.4,58.5,67.4,72.6,4.1
+CIQ2022032,Tanvi Malhotra,Information Technology,5,9.85,94.6,0,91.7,93.1,19,91.7,93.9,83.6,95.9,94.0,4.7
+CIQ2022033,Geeta Malhotra,Electronics & Communication,6,7.17,72.5,0,76.4,71.5,8,60.0,68.0,58.3,68.5,62.7,4.1
+CIQ2022034,Vikram Joshi,Computer Science & Engineering,6,9.35,82.8,0,88.5,85.0,17,50.2,56.0,57.5,34.5,37.7,4.1
+CIQ2022035,Sneha Deshmukh,Information Technology,7,6.99,73.1,0,85.8,72.4,11,65.0,65.9,74.6,67.3,68.5,4.0
+CIQ2022036,Sameer Kulkarni,Mechanical Engineering,6,5.71,56.3,3,63.0,36.4,1,34.3,35.4,43.2,29.8,36.9,3.1
+CIQ2022037,Akash Reddy,Information Technology,6,9.81,85.0,0,92.9,98.8,16,94.0,87.7,85.8,97.6,86.8,4.8
+CIQ2022038,Jatin Gupta,Information Technology,3,7.59,66.5,0,85.4,72.0,15,63.1,69.2,68.4,60.1,73.0,4.2
+CIQ2022039,Ananya Verma,Computer Science & Engineering,4,9.34,95.0,0,94.0,94.8,23,87.7,91.6,94.1,89.7,84.6,4.5
+CIQ2022040,Priya Pandey,Artificial Intelligence & Data Science,4,4.79,53.0,2,61.0,46.4,4,28.2,44.4,47.7,45.1,38.7,2.3
+CIQ2022041,Bhavya Reddy,Information Technology,1,4.29,40.4,2,54.6,48.3,3,22.0,43.1,38.7,34.6,34.1,3.2
+CIQ2022042,Nandini Tripathi,Electronics & Communication,5,6.81,77.5,0,84.2,80.1,13,66.9,67.6,67.2,63.7,67.4,3.4
+CIQ2022043,Ishita Agarwal,Artificial Intelligence & Data Science,4,5.8,59.3,0,73.1,71.8,15,80.7,85.4,79.7,89.5,87.5,3.8
+CIQ2022044,Dia Verma,Mechanical Engineering,7,7.53,70.9,0,81.6,76.0,11,59.1,61.0,65.4,56.7,64.5,3.9
+CIQ2022045,Pooja Chauhan,Computer Science & Engineering,8,9.27,93.3,0,87.2,96.5,19,84.2,95.7,80.2,91.4,92.4,4.6
+CIQ2022046,Simran Kulkarni,Mechanical Engineering,5,8.33,83.5,0,94.4,90.7,15,46.2,62.7,50.5,39.0,45.0,4.4
+CIQ2022047,Sanjay Menon,Artificial Intelligence & Data Science,3,8.78,89.0,0,90.9,96.1,20,87.3,94.5,92.7,89.1,96.1,4.7
+CIQ2022048,Manish Gupta,Artificial Intelligence & Data Science,1,4.97,40.6,4,50.5,38.9,1,36.0,39.5,38.1,27.0,32.1,2.9
+CIQ2022049,Neha Kapoor,Artificial Intelligence & Data Science,8,9.43,89.6,0,92.2,96.9,16,82.4,97.6,90.4,86.1,91.3,4.6
+CIQ2022050,Aishwarya Mishra,Mechanical Engineering,8,9.2,85.8,0,87.7,91.4,27,91.9,84.6,83.4,93.7,86.2,4.5
+CIQ2022051,Meera Bose,Artificial Intelligence & Data Science,3,9.35,83.8,0,91.3,97.7,15,35.4,55.9,62.1,47.3,48.1,3.6
+CIQ2022052,Ishita Deshmukh,Mechanical Engineering,6,5.43,56.5,2,66.8,56.8,4,34.4,42.0,37.7,38.9,36.4,3.2
+CIQ2022053,Manoj Das,Artificial Intelligence & Data Science,1,7.79,75.0,0,77.5,71.7,12,66.8,73.9,65.4,70.3,72.0,3.7
+CIQ2022054,Deepika Mukherjee,Electronics & Communication,2,6.27,56.5,0,71.1,65.9,13,87.2,88.5,79.6,90.8,83.9,4.1
+CIQ2022055,Esha Singh,Artificial Intelligence & Data Science,3,9.07,84.2,0,93.6,91.7,23,92.5,90.0,89.8,97.2,95.9,4.9
+CIQ2022056,Pranav Deshmukh,Mechanical Engineering,3,5.46,42.0,1,58.5,39.4,3,29.9,46.0,47.7,41.5,40.4,3.2
+CIQ2022057,Esha Sharma,Information Technology,8,4.78,56.1,1,67.1,51.6,2,24.9,44.6,38.3,28.8,42.3,2.8
+CIQ2022058,Harsh Rao,Artificial Intelligence & Data Science,6,5.21,56.7,2,59.6,34.7,4,30.0,54.5,49.0,37.0,32.5,3.2
+CIQ2022059,Karthik Das,Information Technology,4,5.44,43.3,1,63.9,37.6,5,30.6,36.7,48.9,33.6,40.5,2.3
+CIQ2022060,Aarav Joshi,Electronics & Communication,6,5.4,59.7,0,70.3,74.3,13,78.5,85.4,90.1,94.3,83.3,3.8
+CIQ2022061,Sneha Das,Computer Science & Engineering,8,8.85,94.2,0,97.1,96.7,25,92.6,84.4,87.6,84.4,87.3,4.9
+CIQ2022062,Arjun Pillai,Electronics & Communication,8,8.66,88.0,0,84.5,89.1,14,40.2,62.2,52.4,42.6,36.0,3.6
+CIQ2022063,Akash Gupta,Artificial Intelligence & Data Science,1,8.38,89.0,0,91.5,90.8,16,53.1,52.3,53.8,46.4,45.3,3.8
+CIQ2022064,Sameer Patel,Information Technology,4,9.27,91.6,0,85.7,93.4,17,45.0,57.9,53.8,42.3,42.5,4.2
+CIQ2022065,Dev Bansal,Information Technology,2,8.94,81.0,0,91.0,88.5,17,52.0,55.7,55.8,33.8,35.9,3.8
+CIQ2022066,Rahul Mehta,Mechanical Engineering,3,4.65,57.9,2,54.7,49.4,1,44.0,47.7,47.8,28.9,38.2,2.7
+CIQ2022067,Karan Agarwal,Information Technology,2,9.63,84.0,0,89.9,99.8,21,83.8,83.9,97.5,82.3,94.3,4.9
+CIQ2022068,Aman Malhotra,Mechanical Engineering,5,8.77,93.4,0,87.2,92.6,25,94.9,91.7,89.1,84.5,84.9,4.5
+CIQ2022069,Vikram Singh,Computer Science & Engineering,4,8.32,85.1,0,87.3,89.5,14,47.7,65.2,52.8,48.8,49.8,3.6
+CIQ2022070,Sneha Joshi,Artificial Intelligence & Data Science,3,7.54,72.9,0,78.7,78.0,10,61.9,69.4,69.5,64.1,69.5,3.5
+CIQ2022071,Roshni Sharma,Mechanical Engineering,3,8.72,95.5,0,90.2,90.2,17,80.1,97.3,90.3,96.9,92.1,4.7
+CIQ2022072,Harit Kapoor,Computer Science & Engineering,4,4.56,50.9,1,66.0,56.9,2,43.8,51.5,46.3,27.8,39.6,2.8
+CIQ2022073,Gaurav Chauhan,Information Technology,3,6.88,67.0,0,75.5,79.5,15,69.3,64.2,72.5,55.0,58.3,3.9
+CIQ2022074,Kavya Nair,Information Technology,4,7.04,70.6,0,76.3,73.4,11,66.6,69.3,63.1,62.3,60.7,3.5
+CIQ2022075,Sameer Joshi,Computer Science & Engineering,1,6.18,55.2,0,71.7,71.1,13,79.6,83.5,76.4,84.8,84.8,4.4
+CIQ2022076,Aishwarya Pandey,Information Technology,3,5.3,54.3,2,61.1,42.6,3,32.0,38.5,41.6,47.2,35.0,2.4
+CIQ2022077,Aditya Patel,Computer Science & Engineering,4,7.1,75.5,0,82.2,73.0,12,57.1,72.5,68.7,58.4,59.0,3.4
+CIQ2022078,Aarav Patel,Mechanical Engineering,5,8.96,87.7,0,94.4,95.0,19,78.4,84.0,95.6,85.9,93.1,4.9
+CIQ2022079,Abhishek Deshmukh,Mechanical Engineering,3,8.86,92.9,0,87.5,97.4,13,37.6,62.5,64.0,46.2,36.3,3.8
+CIQ2022080,Neha Patel,Computer Science & Engineering,2,9.8,87.5,0,96.2,98.3,21,83.9,89.2,84.1,96.2,90.3,4.9
+CIQ2022081,Aarav Nair,Mechanical Engineering,1,6.73,77.9,0,74.6,70.6,13,64.5,72.0,59.8,55.6,66.1,3.7
+CIQ2022082,Deepika Kapoor,Mechanical Engineering,8,9.09,97.9,0,98.6,99.4,25,83.2,88.6,89.9,95.3,85.0,4.7
+CIQ2022083,Neha Rao,Mechanical Engineering,4,8.52,91.2,0,97.7,97.8,18,97.4,92.7,80.2,86.1,87.6,4.4
+CIQ2022084,Aditya Singh,Electronics & Communication,5,7.75,71.7,1,77.9,72.0,11,52.5,67.3,73.6,63.9,67.9,3.5
+CIQ2022085,Manish Deshmukh,Artificial Intelligence & Data Science,8,8.06,81.7,0,90.4,86.2,15,48.8,58.2,50.8,35.5,50.8,4.1
+CIQ2022086,Deepika Mehta,Information Technology,1,5.9,52.2,1,71.4,65.7,15,80.2,88.2,84.7,85.5,89.7,4.3
+CIQ2022087,Siddharth Pillai,Electronics & Communication,7,9.24,86.5,0,86.7,93.2,25,81.2,90.6,93.1,83.7,93.6,4.5
+CIQ2022088,Swati Rao,Mechanical Engineering,5,7.76,71.9,0,78.1,76.6,13,66.4,69.2,59.8,57.6,59.5,3.9
+CIQ2022089,Isha Saxena,Computer Science & Engineering,2,6.28,57.2,0,69.8,74.6,13,92.6,84.2,75.9,96.1,84.9,3.9
+CIQ2022090,Swati Reddy,Mechanical Engineering,4,9.51,95.4,0,94.0,96.9,20,87.4,90.4,95.3,95.4,95.7,4.4
+CIQ2022091,Anushka Nair,Artificial Intelligence & Data Science,6,9.52,94.6,0,94.8,97.6,26,85.8,90.0,82.2,88.2,93.0,4.9
+CIQ2022092,Gaurav Rao,Mechanical Engineering,4,4.39,42.5,2,48.0,37.4,1,24.2,38.6,41.6,34.3,47.5,2.8
+CIQ2022093,Esha Deshmukh,Computer Science & Engineering,8,9.49,85.5,0,88.9,97.0,16,86.2,91.6,90.8,82.4,88.5,4.8
+CIQ2022094,Chetan Tripathi,Artificial Intelligence & Data Science,4,6.78,74.3,0,85.8,73.4,14,61.4,65.6,60.1,67.5,61.8,3.7
+CIQ2022095,Simran Bose,Mechanical Engineering,6,8.49,95.2,0,96.0,97.3,19,79.0,92.2,88.9,84.9,93.6,5.0
+CIQ2022096,Swati Rao,Artificial Intelligence & Data Science,4,5.34,53.3,4,52.1,49.0,5,24.1,49.0,45.0,38.5,44.0,3.3
+CIQ2022097,Komal Pandey,Information Technology,7,5.41,41.0,3,52.5,43.3,3,32.0,43.7,50.9,41.2,42.6,2.3
+CIQ2022098,Shreya Verma,Information Technology,5,9.76,96.7,0,96.1,90.1,16,80.2,84.1,87.2,96.8,90.6,4.4
+CIQ2022099,Bhavya Bose,Mechanical Engineering,1,4.51,40.8,1,53.5,40.3,4,44.4,42.4,42.3,44.4,35.4,2.4
+CIQ2022100,Manoj Iyer,Artificial Intelligence & Data Science,1,5.54,40.8,2,59.2,42.4,2,39.3,36.7,39.0,41.8,41.0,2.4
+CIQ2022101,Shreya Malhotra,Computer Science & Engineering,2,5.59,47.1,3,63.8,50.7,3,44.5,37.9,47.3,29.4,36.8,2.6
+CIQ2022102,Dia Joshi,Mechanical Engineering,1,9.33,94.5,0,84.6,85.3,19,45.4,53.4,59.6,40.9,51.7,3.7
+CIQ2022103,Tanvi Chauhan,Information Technology,1,5.8,58.5,1,69.7,71.0,9,91.9,86.4,74.8,92.6,78.2,3.7
+CIQ2022104,Arjun Agarwal,Information Technology,6,5.55,48.3,3,53.8,55.6,1,28.9,54.6,48.5,36.4,36.8,3.2
+CIQ2022105,Omkar Malhotra,Mechanical Engineering,5,4.98,53.7,3,48.4,35.8,4,24.0,40.1,51.1,37.9,45.0,2.9
+CIQ2022106,Harsh Rao,Artificial Intelligence & Data Science,6,5.95,53.1,0,66.0,67.0,14,82.4,86.8,79.9,83.5,81.6,3.8
+CIQ2022107,Dev Sharma,Information Technology,8,8.68,85.3,0,90.6,97.6,19,82.2,92.3,83.5,96.4,91.3,4.7
+CIQ2022108,Aditya Chauhan,Artificial Intelligence & Data Science,5,9.24,86.3,0,94.0,93.6,26,78.9,90.1,90.8,82.5,89.1,4.8
+CIQ2022109,Lalit Bose,Information Technology,6,9.15,84.7,0,93.2,97.6,20,37.9,63.8,53.4,49.8,43.3,3.6
+CIQ2022110,Aman Patel,Information Technology,6,7.47,69.9,1,85.8,80.5,8,65.1,61.4,58.5,69.0,61.4,3.7
+CIQ2022111,Karan Iyer,Electronics & Communication,4,5.75,46.1,1,66.4,35.3,4,44.7,53.0,46.1,32.2,35.1,3.2
+CIQ2022112,Sneha Bansal,Information Technology,3,9.72,91.4,0,89.2,91.1,17,91.5,88.7,96.3,93.8,86.7,4.8
+CIQ2022113,Karthik Chauhan,Computer Science & Engineering,3,9.05,92.1,0,95.6,98.1,26,80.8,82.5,93.3,83.7,88.4,4.4
+CIQ2022114,Abhishek Sharma,Mechanical Engineering,3,7.42,68.0,0,85.9,71.2,7,57.5,73.0,61.7,61.1,59.1,4.0
+CIQ2022115,Komal Mehta,Mechanical Engineering,3,9.01,94.6,0,97.7,92.3,25,76.4,96.4,91.7,96.0,84.0,4.5
+CIQ2022116,Dia Das,Artificial Intelligence & Data Science,3,8.98,89.3,0,88.9,93.8,17,84.5,94.8,88.6,82.3,89.9,4.4
+CIQ2022117,Manish Bansal,Information Technology,7,9.85,85.8,0,95.2,99.7,25,91.1,95.4,97.7,91.9,91.8,4.8
+CIQ2022118,Nandini Das,Computer Science & Engineering,6,8.75,89.5,0,88.3,87.8,13,36.7,56.2,48.8,41.3,39.8,4.2
+CIQ2022119,Aman Saxena,Artificial Intelligence & Data Science,1,5.47,54.7,1,70.4,61.2,15,92.5,85.0,78.8,97.8,84.4,4.1
+CIQ2022120,Isha Chauhan,Electronics & Communication,3,9.66,88.0,0,91.6,92.7,25,88.2,92.5,84.5,85.5,90.8,4.8
+CIQ2022121,Isha Agarwal,Artificial Intelligence & Data Science,1,4.95,40.6,3,49.3,60.7,1,37.4,36.6,50.5,35.7,32.8,2.6
+CIQ2022122,Lalit Joshi,Artificial Intelligence & Data Science,4,8.65,86.4,0,98.3,94.5,25,89.7,92.8,82.4,85.7,95.0,5.0
+CIQ2022123,Karan Verma,Information Technology,4,8.37,84.1,0,88.6,97.8,14,45.2,66.3,48.0,30.8,45.3,4.3
+CIQ2022124,Rohan Chatterjee,Electronics & Communication,7,4.43,48.5,2,57.5,50.7,3,31.2,44.5,45.0,37.4,47.1,2.3
+CIQ2022125,Abhishek Chatterjee,Artificial Intelligence & Data Science,3,5.5,55.2,1,57.3,45.2,2,29.9,35.9,39.7,43.8,35.7,3.2
+CIQ2022126,Payal Chatterjee,Computer Science & Engineering,7,4.96,55.8,2,48.6,52.3,1,31.3,53.6,37.8,34.0,44.6,3.3
+CIQ2022127,Isha Verma,Computer Science & Engineering,8,9.41,87.6,0,94.8,93.0,24,96.9,93.5,95.5,82.0,94.0,4.9
+CIQ2022128,Aditi Malhotra,Mechanical Engineering,1,4.07,55.7,1,61.3,56.0,4,22.3,46.9,44.3,45.7,38.1,2.6
+CIQ2022129,Nandini Kapoor,Electronics & Communication,6,5.35,47.4,2,60.9,58.6,3,32.6,37.8,37.0,28.5,33.4,3.0
+CIQ2022130,Abhishek Sharma,Electronics & Communication,5,5.33,49.5,3,67.8,56.6,4,33.3,44.0,36.4,34.2,48.2,3.2
+CIQ2022131,Aarav Pillai,Mechanical Engineering,4,4.39,48.4,3,49.3,43.6,5,30.1,36.6,44.2,44.8,41.8,2.5
+CIQ2022132,Aditi Mishra,Artificial Intelligence & Data Science,4,8.98,90.3,0,93.5,97.6,17,95.5,82.2,86.7,82.4,89.5,4.7
+CIQ2022133,Dia Agarwal,Electronics & Communication,6,8.72,82.5,0,91.0,85.6,19,58.7,57.4,56.8,37.6,35.1,3.8
+CIQ2022134,Swati Iyer,Computer Science & Engineering,5,9.59,92.3,0,87.3,98.5,22,94.4,91.3,90.1,83.7,86.3,5.0
+CIQ2022135,Swati Kapoor,Computer Science & Engineering,7,8.74,97.7,0,92.9,91.4,17,79.8,96.8,87.5,88.3,88.4,4.5
+CIQ2022136,Ananya Kapoor,Information Technology,8,9.13,85.8,0,96.9,93.7,20,85.9,89.1,97.9,90.7,85.2,4.8
+CIQ2022137,Arjun Das,Electronics & Communication,5,8.63,84.4,0,98.6,97.7,27,86.0,90.5,83.0,86.0,95.7,4.6
+CIQ2022138,Akash Iyer,Artificial Intelligence & Data Science,8,7.59,74.5,0,80.1,80.8,9,68.3,68.2,60.8,64.9,74.0,3.5
+CIQ2022139,Kavya Nair,Mechanical Engineering,5,7.58,68.5,0,82.8,74.8,9,67.4,66.9,70.4,57.5,71.6,4.0
+CIQ2022140,Lalit Verma,Mechanical Engineering,5,6.31,53.6,0,70.4,66.4,11,75.8,91.2,83.0,82.9,85.2,4.0
+CIQ2022141,Priya Pandey,Artificial Intelligence & Data Science,5,5.43,63.6,1,69.2,61.7,14,84.8,84.5,81.8,90.4,83.4,4.0
+CIQ2022142,Arjun Menon,Information Technology,1,5.09,56.5,1,62.5,58.8,3,31.1,47.0,45.1,43.6,39.5,3.4
+CIQ2022143,Meera Sharma,Mechanical Engineering,6,5.46,52.0,0,66.2,64.3,10,80.1,80.5,91.4,85.5,86.0,4.3
+CIQ2022144,Karthik Malhotra,Electronics & Communication,5,9.79,84.4,0,97.3,95.3,23,89.8,95.1,86.0,93.7,91.4,4.9
+CIQ2022145,Priya Menon,Information Technology,4,7.79,68.4,1,75.1,70.0,7,57.5,69.5,59.2,55.1,73.0,4.1
+CIQ2022146,Pranav Patel,Electronics & Communication,8,9.13,93.3,0,91.8,86.4,15,53.1,56.5,59.7,30.5,40.2,4.0
+CIQ2022147,Tanvi Malhotra,Computer Science & Engineering,3,8.88,88.7,0,91.8,85.1,13,56.7,62.9,49.9,46.8,39.1,3.9
+CIQ2022148,Simran Pillai,Information Technology,5,5.55,60.5,0,65.0,75.5,11,80.9,82.3,77.3,82.4,83.7,4.4
+CIQ2022149,Deepika Patel,Mechanical Engineering,6,9.22,87.1,0,86.4,92.1,20,92.5,85.0,93.0,95.9,90.4,4.9
+CIQ2022150,Varun Saxena,Information Technology,6,9.23,92.9,0,92.8,94.6,18,82.0,86.6,90.1,83.9,96.8,4.8
+CIQ2022151,Swati Rao,Information Technology,4,8.56,82.4,0,94.3,95.7,19,41.8,58.4,49.7,33.8,48.3,4.1
+CIQ2022152,Lalit Singh,Information Technology,7,7.31,76.7,0,79.6,75.4,15,51.8,74.0,72.1,57.2,67.0,4.1
+CIQ2022153,Dev Gupta,Information Technology,6,9.26,96.7,0,98.3,94.2,20,96.5,92.8,82.1,82.7,91.9,5.0
+CIQ2022154,Karan Bhat,Electronics & Communication,1,9.18,90.1,0,83.9,88.3,20,39.6,56.5,50.2,43.5,51.0,3.7
+CIQ2022155,Aishwarya Sharma,Computer Science & Engineering,1,9.11,92.9,0,99.0,91.0,21,83.9,95.9,88.6,83.8,92.9,4.9
+CIQ2022156,Arjun Malhotra,Artificial Intelligence & Data Science,5,8.4,96.0,0,88.4,95.5,20,91.6,87.9,95.7,93.7,93.1,4.9
+CIQ2022157,Harsh Bhat,Information Technology,3,5.36,40.6,1,66.6,35.8,4,44.4,36.0,46.6,35.8,41.6,2.3
+CIQ2022158,Gaurav Chauhan,Mechanical Engineering,3,8.06,90.0,0,93.5,95.2,17,37.5,63.0,52.1,48.2,49.3,4.1
+CIQ2022159,Bhavya Patel,Information Technology,5,9.33,80.5,0,92.3,89.3,21,41.7,63.6,62.9,30.8,41.8,4.2
+CIQ2022160,Vikram Malhotra,Mechanical Engineering,3,8.64,84.0,0,85.1,86.7,20,49.4,53.2,54.5,37.4,38.1,3.9
+CIQ2022161,Meera Agarwal,Electronics & Communication,5,7.0,70.1,0,76.7,80.3,12,62.5,69.9,67.3,69.9,68.8,3.8
+CIQ2022162,Harit Mukherjee,Mechanical Engineering,4,7.6,73.3,0,76.5,72.4,15,65.6,74.1,68.3,63.0,59.0,3.9
+CIQ2022163,Lalit Malhotra,Artificial Intelligence & Data Science,5,8.82,94.9,0,85.3,91.9,18,51.1,61.0,61.2,34.1,47.3,4.1
+CIQ2022164,Isha Verma,Computer Science & Engineering,4,6.3,62.2,0,65.9,77.7,12,93.1,82.5,84.9,95.0,89.2,3.9
+CIQ2022165,Aarav Menon,Mechanical Engineering,6,9.01,88.1,0,82.8,94.0,18,58.3,60.0,51.9,30.9,42.1,3.8
+CIQ2022166,Divya Nair,Mechanical Engineering,2,9.07,85.3,0,95.3,97.5,18,58.2,64.2,57.3,33.6,42.8,4.0
+CIQ2022167,Abhishek Bansal,Computer Science & Engineering,6,7.64,71.8,1,82.1,72.2,15,61.6,65.9,69.2,56.9,68.2,3.8
+CIQ2022168,Omkar Singh,Artificial Intelligence & Data Science,4,5.81,63.4,0,65.1,68.3,15,78.5,83.2,72.3,82.2,87.4,4.3
+CIQ2022169,Aman Patel,Information Technology,7,5.76,60.4,0,75.3,77.4,11,92.1,91.6,78.2,85.7,81.9,4.3
+CIQ2022170,Varun Menon,Mechanical Engineering,5,6.36,61.2,1,70.4,75.0,14,82.5,88.3,88.1,82.7,87.1,3.8
+CIQ2022171,Meera Patel,Computer Science & Engineering,8,9.17,95.3,0,89.3,92.5,20,95.6,82.0,96.2,84.5,97.9,5.0
+CIQ2022172,Tanvi Das,Electronics & Communication,5,4.89,49.2,2,60.7,34.7,1,21.4,43.9,39.7,39.3,49.8,2.7
+CIQ2022173,Nandini Das,Computer Science & Engineering,3,9.26,89.8,0,97.0,99.0,26,97.4,82.4,95.1,94.0,87.2,5.0
+CIQ2022174,Dev Das,Electronics & Communication,7,5.55,60.2,0,68.0,72.9,12,83.6,84.9,88.8,84.3,81.5,4.4
+CIQ2022175,Lalit Chopra,Artificial Intelligence & Data Science,3,9.67,89.6,0,95.9,98.2,26,87.5,85.3,84.6,86.7,92.3,4.4
+CIQ2022176,Isha Gupta,Information Technology,3,9.35,89.1,0,89.8,98.8,21,77.2,95.2,80.9,93.6,94.8,4.6
+CIQ2022177,Simran Iyer,Computer Science & Engineering,1,9.15,87.7,0,88.5,85.6,14,58.3,58.3,57.3,40.6,45.0,3.6
+CIQ2022178,Aishwarya Saxena,Mechanical Engineering,5,4.65,53.0,1,52.1,32.3,3,42.1,36.0,38.2,32.1,44.6,3.0
+CIQ2022179,Sameer Menon,Artificial Intelligence & Data Science,5,7.1,75.1,0,84.8,83.1,9,56.0,61.9,63.7,72.0,64.5,3.6
+CIQ2022180,Harsh Patel,Computer Science & Engineering,4,7.51,72.5,0,78.6,76.6,13,50.5,64.0,66.8,59.6,68.1,3.8
+CIQ2022181,Harsh Tripathi,Mechanical Engineering,7,4.65,57.1,2,50.6,48.8,4,37.7,38.4,51.5,35.3,33.2,2.4
+CIQ2022182,Ishita Kulkarni,Computer Science & Engineering,2,4.18,54.5,1,50.5,57.5,2,20.8,36.0,37.4,29.9,43.3,2.4
+CIQ2022183,Ishita Verma,Electronics & Communication,3,6.74,75.2,0,79.2,78.8,9,60.6,67.6,64.6,70.4,58.3,4.0
+CIQ2022184,Nandini Patel,Computer Science & Engineering,3,8.59,95.2,0,94.0,98.4,17,87.9,90.0,92.7,90.5,91.6,4.7
+CIQ2022185,Meera Tripathi,Computer Science & Engineering,1,8.43,87.2,0,83.7,97.5,19,58.8,55.6,62.9,46.2,46.5,4.1
+CIQ2022186,Aman Reddy,Computer Science & Engineering,4,6.98,75.8,0,74.9,75.0,15,68.7,74.7,68.7,59.2,60.6,3.5
+CIQ2022187,Dev Reddy,Artificial Intelligence & Data Science,6,5.42,56.7,0,67.8,76.8,11,92.6,89.1,76.9,87.7,76.3,3.9
+CIQ2022188,Dev Kulkarni,Computer Science & Engineering,5,9.42,85.0,0,88.7,93.8,27,93.1,93.7,82.1,94.5,95.0,4.8
+CIQ2022189,Nikhil Menon,Mechanical Engineering,2,9.39,84.9,0,95.2,96.9,12,46.3,67.6,49.8,41.0,51.6,4.0
+CIQ2022190,Tanvi Das,Electronics & Communication,4,8.27,88.7,0,84.9,91.8,12,50.1,60.3,60.6,42.6,44.3,4.1
+CIQ2022191,Sneha Rao,Electronics & Communication,1,5.54,59.1,0,75.0,61.2,11,88.9,86.9,73.8,90.9,84.6,4.2
+CIQ2022192,Rohan Chatterjee,Computer Science & Engineering,7,8.96,91.9,0,91.9,96.7,23,87.1,86.0,80.0,84.8,85.6,4.7
+CIQ2022193,Dev Menon,Artificial Intelligence & Data Science,1,6.01,54.6,1,62.1,73.9,13,82.5,80.8,84.5,88.2,89.0,4.1
+CIQ2022194,Divya Bansal,Artificial Intelligence & Data Science,5,6.34,54.6,1,70.6,73.3,9,88.3,87.5,86.9,87.2,88.4,3.7
+CIQ2022195,Komal Pandey,Mechanical Engineering,8,6.21,62.3,1,69.2,67.9,15,79.6,88.2,85.4,93.2,78.1,4.2
+CIQ2022196,Omkar Pandey,Computer Science & Engineering,5,5.47,40.9,4,48.6,42.7,1,21.9,53.2,41.0,34.8,34.3,2.9
+CIQ2022197,Farhan Chauhan,Electronics & Communication,8,7.31,70.5,0,84.6,76.1,11,56.2,71.8,64.8,63.7,62.1,4.2
+CIQ2022198,Priti Iyer,Artificial Intelligence & Data Science,3,4.52,53.9,2,52.1,56.0,2,41.6,53.3,49.6,25.8,45.7,2.7
+CIQ2022199,Esha Pillai,Computer Science & Engineering,6,9.71,92.9,0,96.8,95.0,22,78.3,94.5,87.5,90.0,95.0,4.8
+CIQ2022200,Nandini Gupta,Artificial Intelligence & Data Science,5,6.84,73.1,0,79.6,70.5,8,56.2,70.7,58.2,61.9,72.8,3.5
+CIQ2022201,Aditya Bansal,Artificial Intelligence & Data Science,6,4.93,54.2,4,62.9,53.6,5,31.2,51.1,35.1,46.3,38.9,2.9
+CIQ2022202,Roshni Mishra,Electronics & Communication,1,8.36,91.1,0,83.1,96.3,20,40.4,64.9,61.4,42.6,41.3,3.7
+CIQ2022203,Anushka Sharma,Information Technology,2,5.63,55.8,1,63.1,74.9,10,85.4,91.9,89.7,87.5,81.9,4.0
+CIQ2022204,Shreya Deshmukh,Mechanical Engineering,2,5.41,55.6,0,67.8,73.0,11,84.8,86.4,86.8,95.8,83.0,4.3
+CIQ2022205,Dev Nair,Mechanical Engineering,6,4.53,49.7,1,56.3,54.0,5,23.0,47.7,44.9,27.7,34.2,2.6
+CIQ2022206,Harit Pillai,Electronics & Communication,7,4.3,44.4,1,54.7,54.5,3,44.7,43.3,47.8,45.0,43.6,2.7
+CIQ2022207,Ananya Patel,Artificial Intelligence & Data Science,6,9.53,86.9,0,90.3,95.5,22,75.5,97.1,92.5,89.9,97.1,4.7
+CIQ2022208,Isha Chatterjee,Computer Science & Engineering,1,6.38,58.1,0,72.7,72.2,14,94.0,91.6,84.2,95.7,85.1,4.0
+CIQ2022209,Dia Malhotra,Artificial Intelligence & Data Science,7,5.59,44.0,3,65.6,53.9,4,38.8,44.3,49.9,29.7,32.5,2.5
+CIQ2022210,Anushka Tripathi,Electronics & Communication,4,9.2,91.1,0,96.7,94.0,21,75.3,88.6,91.7,82.2,87.9,4.5
+CIQ2022211,Farhan Mishra,Mechanical Engineering,4,4.08,48.6,1,62.9,57.4,3,44.5,44.0,43.7,47.8,34.6,3.3
+CIQ2022212,Priya Patel,Artificial Intelligence & Data Science,2,6.65,71.4,0,82.8,79.7,13,58.2,65.5,58.8,60.9,72.9,3.7
+CIQ2022213,Aman Nair,Mechanical Engineering,6,9.65,95.8,0,90.9,96.3,17,77.4,82.8,90.5,88.8,91.7,4.7
+CIQ2022214,Kavya Tripathi,Computer Science & Engineering,2,5.75,60.1,1,62.2,63.7,13,82.7,89.9,78.9,88.3,77.4,3.8
+CIQ2022215,Isha Kulkarni,Mechanical Engineering,5,9.31,90.1,0,96.1,98.5,22,92.4,86.9,87.5,93.4,89.4,4.8
+CIQ2022216,Manoj Patel,Mechanical Engineering,7,4.33,50.8,3,65.4,53.7,4,33.9,46.7,37.3,35.2,39.0,3.4
+CIQ2022217,Dev Saxena,Information Technology,1,4.78,49.9,2,60.7,54.4,2,33.2,51.5,42.9,31.4,43.1,3.2
+CIQ2022218,Nikhil Kapoor,Information Technology,5,4.11,54.0,3,57.2,61.5,4,39.3,50.0,37.6,30.0,39.3,2.5
+CIQ2022219,Dev Patel,Information Technology,3,4.75,56.0,3,60.6,57.7,4,30.7,39.0,43.7,41.9,38.7,3.0
+CIQ2022220,Ishita Mukherjee,Mechanical Engineering,3,8.54,94.5,0,96.6,97.1,27,94.0,96.4,96.8,94.8,93.4,4.4

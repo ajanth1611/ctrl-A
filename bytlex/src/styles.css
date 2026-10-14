@@ -1,0 +1,30 @@
+/* src/styles.css - Design System for StudentSignals */
+/* Global fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+html, body, .stApp, .stMarkdown, .stText {font-family: 'Inter', sans-serif;}
+
+/* Layout */
+.sidebar {
+    background:#0f172a; /* dark navy */
+    color:#cbd5e1;
+    padding:2rem 1rem;
+    min-height:100vh;
+    width:260px;
+    box-sizing:border-box;
+}
+.sidebar a {
+    color:#cbd5e1; text-decoration:none; display:block; padding:.5rem 0; border-radius:4px;
+}
+.sidebar a:hover {background:#1e293b; color:#fff;}
+.topbar {
+    background:#fff; border-bottom:1px solid #e2e8f0; padding:0.8rem 1.5rem; display:flex; justify-content:space-between; align-items:center;
+    box-shadow:0 1px 4px rgba(0,0,0,0.05);
+}
+.main-content {background:#f1f5f9; padding:1.5rem; min-height:calc(100vh - 60px);}
+.kpi-grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(180px,1fr)); gap:1rem;}
+.kpi-card {
+    background:#fff; border:1px solid #e2e8f0; border-radius:8px; padding:1rem; text-align:center; box-shadow:0 2px 6px rgba(0,0,0,0.04);
+}
+.kpi-card h4 {margin:0; font-size:0.85rem; color:#64748b;}
+.kpi-card p {margin:0; font-size:1.6rem; font-weight:600; color:#0f172a;}
+.kpi-card small {color:#94a3b8;}

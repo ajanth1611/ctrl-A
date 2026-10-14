@@ -1,0 +1,7 @@
+student_id,name,cgpa,attendance_overall,backlog_count
+STU2021001,Karan Saxena,9.13,92.3,0
+,Nameless Missing ID,7.5,80.0,0
+STU2021005,Gaurav Chopra,14.5,88.1,0
+STU2021007,Simran Gupta,8.43,150.0,0
+STU2021008,Kavya Patel,invalid_num,79.5,0
+STU2021009,Riya Mishra,8.32,81.2,-3
